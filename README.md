@@ -6,4 +6,4 @@
 - JavaScript
 
 ## Deploy
-N/A
+- N/A

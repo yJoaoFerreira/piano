@@ -1,11 +1,11 @@
 # Piano Simulator
 
-- ...
+- Uma simulação de um piano.
 
 ## Tecnologias
-- HTML
-- CSS
-- JavaScript
+- HTML;
+- CSS;
+- JavaScript;
 
 ## Deploy
-- N/A
+- N/A;
